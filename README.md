@@ -36,7 +36,7 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 
 ## 📌 Pinned Projects
 - 🔹 [Website Development](https://github.com/febryannnn) – Creating Website with PHP and Javascript.
-- 🔹 [](https://github.com/febryannnn) – Creating Website with PHP and Javascript.
+- 🔹 [Programming with C/C++](https://github.com/febryannnn) – Fundamental Programming and Data Structure Learning with C and C++.
 - 🔹 [EDA with Python](https://github.com/febryannnn) – Exploratory Data Analysis project using Pandas & Matplotlib.  
 - 🔹 [Tableau Dashboards](https://github.com/febryannnn) – Visual analytics projects for logistics & healthcare datasets.  
 
