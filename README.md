@@ -27,9 +27,15 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febryannnn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryannnn&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryannnn&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=febryannnn&theme=tokyonight" alt="GitHub Stats" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=febryannnn&theme=tokyonight" alt="Repos Per Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=febryannnn&theme=tokyonight" alt="Most Commit Language" height="150"/>
 </p>
 
 ---
