@@ -8,7 +8,7 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 ## 🌱 About Me
 - 🎓 Currently studying at **Institut Teknologi Sepuluh Nopember (ITS)**
 - 💡 Interested in **Data Science, Machine Learning, and Software Engineering**
-- 📊 Exploring **EDA, Tableau, Python, JavaScript, and Website Development**
+- 📊 Exploring **Machine Learning, Data Science, and Website Development**
 
 ---
 
