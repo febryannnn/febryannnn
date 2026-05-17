@@ -10,16 +10,14 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 - Interested in **Data Science, Machine Learning, and Software Engineering**
 - Exploring **Machine Learning, Data Science, and Website Development**
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryannnn&theme=tokyonight" alt="GitHub Streak" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=febryannnn&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=febryannnn&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=febryannnn&theme=tokyonight" alt="Repos Per Language" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=febryannnn&theme=tokyonight" alt="Most Commit Language" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=febryannnn&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 ---
