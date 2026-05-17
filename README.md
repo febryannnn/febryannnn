@@ -12,7 +12,7 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ Here you'll find some of my projects, experiments, and learning journey 🚀
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryannnn&theme=tokyonight" alt="GitHub Streak" height="150"/>
